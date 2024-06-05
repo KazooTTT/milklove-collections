@@ -1,0 +1,118 @@
+1
+00:00:00,266 --> 00:00:02,332
+Stay at home or go out to play
+
+2
+00:00:02,333 --> 00:00:02,732
+- Stay at home
+- Stay at home
+
+3
+00:00:03,466 --> 00:00:05,199
+Sunny day or rainy day
+
+4
+00:00:05,200 --> 00:00:06,032
+- Sunny day
+- Sunny day
+
+5
+00:00:07,266 --> 00:00:08,299
+Mountains or sea
+
+6
+00:00:08,300 --> 00:00:09,032
+- Sea
+- Sea
+
+7
+00:00:09,300 --> 00:00:10,490
+Cold or hot
+
+8
+00:00:10,517 --> 00:00:11,283
+- Cold
+- Cold
+
+9
+00:00:11,900 --> 00:00:14,465
+Stay up late or early to bed and early to rise
+
+10
+00:00:14,466 --> 00:00:15,399
+- L: Stay up late
+- M: Early to bed and early to rise
+
+11
+00:00:17,066 --> 00:00:17,999
+Cute or sexy
+
+12
+00:00:18,000 --> 00:00:18,865
+- L: Cute
+- M: Sexy
+
+13
+00:00:19,733 --> 00:00:20,865
+Coffee or milk
+
+14
+00:00:20,900 --> 00:00:21,732
+- L: Milk
+- M: Coffee
+
+15
+00:00:22,466 --> 00:00:24,065
+- I don't drink milk, but I also don't drink coffee
+
+16
+00:00:24,866 --> 00:00:25,599
+Vegetables or meat
+
+17
+00:00:25,600 --> 00:00:26,465
+Vegetables
+
+18
+00:00:26,466 --> 00:00:27,265
+- Meat
+- Meat
+
+19
+00:00:29,466 --> 00:00:30,532
+- Vegetables
+
+20
+00:00:30,533 --> 00:00:32,232
+Thai songs or foreign songs
+
+21
+00:00:32,266 --> 00:00:33,099
+- Foreign songs
+- Foreign songs
+
+22
+00:00:33,733 --> 00:00:35,599
+Electric bike or sports car
+
+23
+00:00:35,600 --> 00:00:37,499
+- M: Electric bike
+- L: Sports car
+
+24
+00:00:37,866 --> 00:00:38,899
+Cat or dog
+
+25
+00:00:38,900 --> 00:00:39,699
+- Cat
+
+26
+00:00:39,700 --> 00:00:40,732
+Milk or love
+
+27
+00:00:40,733 --> 00:00:41,399
+- Love
+- Love
