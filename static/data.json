@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "project_address": "https://github.com/KazooTTT/milklove-project-reborn",
+            "website": "https://reborn.milklovemuv.com/",
+            "website_name": "重生计划分支可视化",
+            "image": "https://pictures.kazoottt.top/2025/03/20250321-1327dabf66342822b089a35fd2f9dac1.png",
+            "date": "2025-03-21"
+        },
+        {
+            "project_address": "https://github.com/KazooTTT/milklove-newyear-24h-fanworks",
+            "website": "https://milklovemuv.com/",
+            "website_name": "MUV 家元旦 24H 限定食堂",
+            "image": "https://github.com/KazooTTT/milklove-newyear-24h-fanworks/raw/master/docs/cover.png",
+            "date": "2025-01-01"
+        }
+    ],
+    "articles": [
+        {
+            "title": "使用 google sheet + api 定时获取油管播放量 • 声控烤箱 ｜ KazooTTT 博客",
+            "url": "https://blog.kazoottt.top/notes/use-google-sheet-api-to-get-youtube-playbacks-on-a-regular-basis/"
+        }
+    ]
+}
